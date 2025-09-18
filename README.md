@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a479d256-73f0-4f25-b669-1d6bc4679a5e" alt="Truegrid Logo" width="220" height="220"/>
-</p>
-
 <h1 align="center">Team Hexadecimal</h1>
 <h2 align="center">Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations</h2>
 
+<p align="center">
+  <a href="https://youtu.be/7YYQgGcfyxk" target="_blank">
+    <img src="https://img.shields.io/badge/%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
+</p>
 
-## 📖 Problem Statement  
+---
+
+## ◼️Problem Statement  
 - **ID:** 25100  
 - **Title:** Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations  
 - **Organization:** MathWorks India Pvt. Ltd.  
@@ -26,7 +29,7 @@ This enables **traffic agencies** to run **realistic congestion and crisis manag
 
 ---
 
-## Key Features  
+## ◼️Key Features  
 - **Dynamic Obstacles**: Potholes, barricades, lane closures.  
 - **Adaptive Driving**: Speed changes based on curvature + obstacles.  
 - **2D-to-3D Integration**: MATLAB → JSON → Three.js.  
@@ -35,21 +38,12 @@ This enables **traffic agencies** to run **realistic congestion and crisis manag
 
 ---
 
-## Demo  
-[![Watch Demo](./assets/demo_thumbnail.png)](./assets/demo.mp4)  
-*Replace with your simulation video link.*  
-
----
-
-## The Team  
-- **[Abhay Singh](https://github.com/abhaydesu)** — @abhaydesu
-- **[Abhimanyu](https://github.com/Caravaleer)** — @Caravaleer  
-- **[Aditya](https://github.com/aditzz073)** — @aditzz073
-- **[Angelica Singh](https://github.com/angelica-singh-04)** — @angelica-singh-04  
+## ◼️The Team  
 - **[Kushagra Shukla](https://github.com/KushagraShukla30)** — @KushagraShukla30  
-- **[Prajakta Naik](https://github.com/PrajaktaNaik17)** — @PrajaktaNaik17  
+- **[Abhay Singh](https://github.com/abhaydesu)** — @abhaydesu
+- **[Angelica Singh](https://github.com/angelica-singh-04)** — @angelica-singh-04  
+- **[Aditya](https://github.com/aditzz073)** — @aditzz073  
+- **[Prajakta Naik](https://github.com/PrajaktaNaik17)** — @PrajaktaNaik17
+- **[Abhimanyu](https://github.com/Caravaleer)** — @Caravaleer  
 
 ---
-
-## 📄 License  
-MIT License © 2025  
