@@ -1,8 +1,12 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a479d256-73f0-4f25-b669-1d6bc4679a5e" /># Truegrid
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/556d5a7a-b494-4062-b9aa-7210bc53a88f" alt="Project Logo" width="300" height="300"/>
+</p>
 
-# 🚦 Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations
+<h1 align="center">Truegrid</h1>
 
-![Project Logo](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/556d5a7a-b494-4062-b9aa-7210bc53a88f" />)  
+<h2 align="center">Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations</h2>
+
+---
 
 ---
 
