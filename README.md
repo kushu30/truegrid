@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hexadecimal_logo.png" alt="Hexadecimal Logo" width="220" height="220" style="margin-right:50px;"/>
+  <img src="https://github.com/user-attachments/assets/0b2eaed4-bce4-4740-a8f1-02d416b7594e" alt="Hexadecimal Logo" width="220" height="220" style="margin-right:50px;"/>
   <img src="https://github.com/user-attachments/assets/a479d256-73f0-4f25-b669-1d6bc4679a5e" alt="MathWorks Logo" width="220" height="220"/>
 </p>
 
