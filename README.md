@@ -1,9 +1,8 @@
-# Truegrid
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a479d256-73f0-4f25-b669-1d6bc4679a5e" /># Truegrid
 
 # 🚦 Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations
 
-![Project Logo]()  
-*Add your logo above (recommended: transparent background, PNG).*
+![Project Logo](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/556d5a7a-b494-4062-b9aa-7210bc53a88f" />)  
 
 ---
 
