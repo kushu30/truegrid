@@ -1,8 +1,8 @@
-# truegrid
+# Truegrid
 
 # 🚦 Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations
 
-![Project Logo](./assets/logo.png)  
+![Project Logo]()  
 *Add your logo above (recommended: transparent background, PNG).*
 
 ---
