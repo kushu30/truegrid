@@ -3,10 +3,8 @@
 </p>
 
 <h1 align="center">Team Hexadecimal</h1>
-
 <h2 align="center">Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations</h2>
 
----
 
 ## 📖 Problem Statement  
 - **ID:** 25100  
