@@ -7,9 +7,6 @@
 <h2 align="center">Accelerating High-Fidelity Road Network Modeling for Indian Traffic Simulations</h2>
 
 ---
-
----
-
 ## 📖 Overview  
 This project tackles the **unique challenges of Indian traffic simulations** by enabling realistic digital twin creation of roads and junctions. Using **MATLAB**, **Simulink**, **RoadRunner**, and **Three.js**, the workflow integrates potholes, barricades, and hyper-local driving behaviors into a 3D simulation pipeline.  
 
